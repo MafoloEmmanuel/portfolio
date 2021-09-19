@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(79, 190, 185);
+}
+.container{
+    margin: auto;
+    background-color: white;
+    align-items: center;
+    border:1px solid rgb(79, 190, 185);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+img{
+    border-radius: 50%;
+    width: 80%;
+}
+
+.container{
+    margin: 0 auto;
+    position: relative;
+    display: block;   
+}
+body{
+font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+ button{
+    background-color: rgb(79, 190, 185);
+   
+    color: black;
+    border-radius: 10px;
+}
+.the-buttons{
+    float: right;
+    padding: 5px;
+}
+.link{
+    border: 1px solid lightseagreen;
+}
+.project-button{
+    border: 1px solid  rgb(74, 160, 241);;
+    border-radius: 12px;
+    background-color: rgb(74, 160, 241);
+    padding: 10px;
+}
+
+ img{
+    border-radius: 50%;
+    width: 80%;
+}
+#view-link{
+    border: none;
+    border-radius: 10;
+    background-color: rgb(79, 190, 185);
+    padding: 5px
+}
+h2{
+    text-align: center;
+    background-color:rgb(79, 190, 185) ;
+}
+h4{
+    background-color: rgb(79, 190, 185);
+    text-align: center;
+    padding: 10px;
+    border: 1px solid rgb(79, 190, 185);
+    border-radius: 200px;
+}
+h3{
+    color: rgb(79, 190, 185);
+}
+.fa {
+    padding: 10px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background-color:rgb(79, 190, 185);
+    color: black;
+
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      background-color: white;
+  }
+  .footer{
+      align-items: center;
+  }
+  
